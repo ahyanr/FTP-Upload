@@ -1,0 +1,12 @@
+C:\Users\ahyan\source\repos\FTP Upload\bin\Debug\FTP Upload.exe.config
+C:\Users\ahyan\source\repos\FTP Upload\bin\Debug\FTP Upload.exe
+C:\Users\ahyan\source\repos\FTP Upload\bin\Debug\FTP Upload.pdb
+C:\Users\ahyan\source\repos\FTP Upload\bin\Debug\FTP Upload.xml
+C:\Users\ahyan\source\repos\FTP Upload\obj\Debug\FTP Upload.vbprojAssemblyReference.cache
+C:\Users\ahyan\source\repos\FTP Upload\obj\Debug\FTP_Upload.Form1.resources
+C:\Users\ahyan\source\repos\FTP Upload\obj\Debug\FTP_Upload.Resources.resources
+C:\Users\ahyan\source\repos\FTP Upload\obj\Debug\FTP Upload.vbproj.GenerateResource.cache
+C:\Users\ahyan\source\repos\FTP Upload\obj\Debug\FTP Upload.vbproj.CoreCompileInputs.cache
+C:\Users\ahyan\source\repos\FTP Upload\obj\Debug\FTP Upload.exe
+C:\Users\ahyan\source\repos\FTP Upload\obj\Debug\FTP Upload.xml
+C:\Users\ahyan\source\repos\FTP Upload\obj\Debug\FTP Upload.pdb
